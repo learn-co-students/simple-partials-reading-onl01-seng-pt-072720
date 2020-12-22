@@ -2,6 +2,7 @@
 
 ## Objectives
 
+
 1. Explain why partials are used
 2. Use Rails's `render` method to render a partial
 3. Describe how the name of a partial turns into its filename
